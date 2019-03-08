@@ -1,5 +1,5 @@
 # devops-aula05
 
-os vingadores  acao
-furia de titans acao
-os trapalhoes comedia
+os vingadores  acao<br>
+furia de titans acao<br>
+os trapalhoes comedia<br>
